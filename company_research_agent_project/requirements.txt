@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-community
+langchain-together
+beautifulsoup4
+tavily-python
+python-dotenv  # For loading .env file
